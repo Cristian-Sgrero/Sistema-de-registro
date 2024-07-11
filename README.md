@@ -5,3 +5,5 @@
 Para ejecutar el sistema, debes poner:
 
 ```npm iunstallreact```
+
+Sistema de Registro 2 
